@@ -1,0 +1,85 @@
+body{
+    font-family: "Times New Roman", serif;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: darkblue;
+    padding: 0 0 0 0;
+    left: 0;
+    top:0;
+    border-radius: 5px ;
+    width: 100%;
+
+}
+h3{
+    background-color: darkblue;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+    padding-left: 3px;
+}
+ a{
+    text-decoration: none;
+     border-radius: 5px;
+     color: aliceblue;
+}
+
+section {
+    padding-left: 20px;
+}
+section ul{
+    padding-left: 10px;
+}
+
+
+#heading>ul{
+    list-style: none;
+}
+ #heading a:link, #heading a:visited, #bottom{
+    background-color: cornflowerblue;
+    border:  2px solid black;
+    display: block;
+     text-align: center;
+    width: 200px;
+    margin-bottom: 2px;
+}
+
+#heading a:hover, #heading a:active, #bottom:hover, #bottom:active{
+    background-color: aliceblue;
+    color: cornflowerblue;
+    border:  2px solid black;
+    display: block;
+    text-align: center;
+    width: 200px;
+    margin-bottom: 2px;
+}
+ footer a:hover{
+    background-color: aliceblue;
+    color: darkblue;
+
+}
+ footer{
+     color: aliceblue;
+    background-color:darkblue;
+     position: fixed;
+     padding: 5px 5px 5px 15px;
+     bottom: 0;
+     left: 0;
+     width: 100%;
+ }
+ img{
+     color: aliceblue;
+    border: 10px solid dodgerblue;
+     border-radius: 5px;
+     height: 200px;
+     width: 200px;
+     padding: 5px 5px 5px 5px;
+ }
+#bottom{
+    padding-bottom: 20px;
+}
+#section2 span{
+    font-weight: bold;
+    width: 100px;
+}
