@@ -39,7 +39,7 @@ section{
 }
 
 /********** Medium devices only **********/
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 769px) and (max-width: 1199px) {
     #navbarNavDropdown, #nav-button, .endlink{
         visibility: hidden;
     }
